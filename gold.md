@@ -1,0 +1,1 @@
+# Building the gold layer
