@@ -29,6 +29,11 @@ manual schema
 grant permissions
 Use CRAS to remove unnecessary columns
 
+## Minor clean-ups
+constraints
+null checks
+custom validation functions
+
 ## Saving to tables
 Alias columns
 remove columns we don;t need
