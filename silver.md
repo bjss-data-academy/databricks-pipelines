@@ -7,3 +7,8 @@ intro
 ## Moving to what we need
 
 advice on what transforms go in silver
+
+# Next
+[Building a Star Schema](/star-schema.md)
+
+[Back to Contents](/contents.md)
