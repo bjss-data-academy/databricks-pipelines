@@ -25,3 +25,7 @@ do whatever we need to do to get the fact from silver data
 link to dimension rows
 
 
+# Next
+[Adding observability](/observability.md)
+
+[Back to Contents](/contents.md)
