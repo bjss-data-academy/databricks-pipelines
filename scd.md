@@ -17,6 +17,14 @@ how to model
 
 ## Kimball types
 backstory
-links to further reading
+
+# Further reading
 kimball site
+
 oreilly DM book
+
+
+# Next
+[Building the gold layer](/gold.md)
+
+[Back to Contents](/contents.md)
