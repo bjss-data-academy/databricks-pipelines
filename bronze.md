@@ -39,3 +39,8 @@ Alias columns
 remove columns we don;t need
 
 save out dataframe as delta table
+
+# Next
+[Building the silver layer](/silver.md)
+
+[Back to Contents](/contents.md)
